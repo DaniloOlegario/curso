@@ -1,3 +1,5 @@
+//criado após a instalação de um package 'awesome_anackbar_content' de alertas para o usuário
+
 import 'package:awesome_snackbar_content/awesome_snackbar_content.dart';
 import 'package:flutter/material.dart';
 

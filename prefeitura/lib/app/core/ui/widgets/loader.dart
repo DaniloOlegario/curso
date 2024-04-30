@@ -1,3 +1,5 @@
+// criado após a instalaçã do package 'loading_animation_widget', aparece para mostrar que o sistema não esta travado mais sim rebutando
+
 import 'package:flutter/material.dart';
 import 'package:loading_animation_widget/loading_animation_widget.dart';
 import 'package:prefeitura/app/core/ui/extensions/size_screen_extension.dart';

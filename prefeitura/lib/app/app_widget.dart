@@ -1,3 +1,5 @@
+//app Widget - configurar tema, fonte, cores e a rota inicial do aplicativo.
+
 import 'package:flutter/material.dart';
 import 'package:flutter_modular/flutter_modular.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';

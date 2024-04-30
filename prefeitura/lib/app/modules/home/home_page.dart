@@ -1,3 +1,5 @@
+//tela principal do aplicativo desenvolvido.
+
 import 'package:flutter/material.dart';
 // import 'package:flutter_modular/flutter_modular.dart';
 import 'package:prefeitura/app/core/ui/extensions/size_screen_extension.dart';

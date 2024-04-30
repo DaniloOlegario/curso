@@ -1,3 +1,5 @@
+// criado após a instalacão de um package para alterar o tema, cor e fonte do aplicativo
+
 import 'package:flutter/material.dart';
 
 final class UiConfig {

@@ -1,3 +1,5 @@
+/* extensão para facilitar com a responsividade criado após a intalação de um package 'flutter screenutil'*/
+
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 extension SizeScreenExtenson on num {
